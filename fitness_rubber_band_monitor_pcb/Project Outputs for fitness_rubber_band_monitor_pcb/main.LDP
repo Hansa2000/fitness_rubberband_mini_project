@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Hansa Niluka\OneDrive - University of Moratuwa\semster 07\1.BM4112 - Medical Electronics and Instrumentation\Mini Project\fitness_rubber_band_monitor_pcb\main.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=main-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=main-slotholes.txt|DrillLayers=gtl,gbl

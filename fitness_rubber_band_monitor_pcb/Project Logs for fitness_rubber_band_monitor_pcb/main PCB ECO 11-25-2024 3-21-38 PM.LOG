@@ -1,0 +1,17 @@
+Change Component Designator: OldDesignator=J6 NewDesignator=J7
+Change Component Designator: OldDesignator=R10 NewDesignator=R12
+Change Component Designator: OldDesignator=R11 NewDesignator=R13
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J1-2
+Add Pin To Net: Unknown Pin: Pin J1-3
+Add Pin To Net: Unknown Pin: Pin J1-4
+Add Pin To Net: Unknown Pin: Pin J1-5
+Add Pin To Net: Unknown Pin: Pin J1-6
+Add Pin To Net: Unknown Pin: Pin J2-3
+Add Pin To Net: Unknown Pin: Pin J2-4
+Add Pin To Net: Unknown Pin: Pin J2-5
+Add Pin To Net: Unknown Pin: Pin J2-6
+Added Member To Class: ClassName=main Member=Component J1 240-004
+Added Member To Class: ClassName=main Member=Component J7 10155435-00021LF
+Added Member To Class: ClassName=main Member=Component R12 PV37W501C01B00
+Added Member To Class: ClassName=main Member=Component R13 PV37W501C01B00

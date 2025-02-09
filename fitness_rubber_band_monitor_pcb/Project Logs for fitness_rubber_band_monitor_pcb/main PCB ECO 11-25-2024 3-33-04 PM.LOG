@@ -1,0 +1,30 @@
+Added Component: Designator=J1(SAMTEC_MTSW-106-07-S-S-238)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "240-004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/240-004/digilent?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://digilent.com/reference/_media/reference/test-and-measurement/6-pin-header-gender-changer/163-068-2.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.09mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Digilent"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "240-004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J2(SAMTEC_MTSW-106-07-S-S-238)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "240-004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/240-004/digilent?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://digilent.com/reference/_media/reference/test-and-measurement/6-pin-header-gender-changer/163-068-2.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.09mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Digilent"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "240-004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J1-2
+Add Pin To Net: Unknown Pin: Pin J1-3
+Add Pin To Net: Unknown Pin: Pin J1-4
+Add Pin To Net: Unknown Pin: Pin J1-5
+Add Pin To Net: Unknown Pin: Pin J1-6
+Add Pin To Net: Unknown Pin: Pin J2-3
+Add Pin To Net: Unknown Pin: Pin J2-4
+Add Pin To Net: Unknown Pin: Pin J2-5
+Add Pin To Net: Unknown Pin: Pin J2-6
+Added Member To Class: ClassName=main Member=Component J1 240-004
+Added Member To Class: ClassName=main Member=Component J2 240-004

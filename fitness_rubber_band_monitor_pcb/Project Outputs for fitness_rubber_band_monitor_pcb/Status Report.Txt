@@ -1,0 +1,24 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [fitness_rubber_band_monitor_pcb.PrjPcb]
+   Generated File[main_Legend_Top.gbr]
+   Generated File[main_Paste_Top.gbr]
+   Generated File[main_Soldermask_Top.gbr]
+   Generated File[main_Copper_Signal_Top.gbr]
+   Generated File[main_Copper_Signal_Bot.gbr]
+   Generated File[main_Soldermask_Bot.gbr]
+   Generated File[main_Paste_Bot.gbr]
+   Generated File[main_Legend_Bot.gbr]
+   Generated File[main_Mechanical_1.gbr]
+   Generated File[main_Drawing_1.gbr]
+   Generated File[main_Drillmap_1.gbr]
+   Generated File[main_Profile.gbr]
+   Generated File[main.RUL]
+   Generated File[main.EXTREP]
+   Generated File[main.REP]
+
+
+Files Generated   : 15
+Documents Printed : 0
+
+Finished Output Generation At 10:38:14 AM On 11/26/2024

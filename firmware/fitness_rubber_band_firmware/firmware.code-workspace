@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "fitness_rubber_band_firmware",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"random": "cpp",
+			"queue": "cpp",
+			"stack": "cpp",
+			"array": "cpp",
+			"ranges": "cpp",
+			"span": "cpp",
+			"vector": "cpp",
+			"xstring": "cpp",
+			"xutility": "cpp",
+			"string": "cpp",
+			"string_view": "cpp"
+		}
+	}
+}

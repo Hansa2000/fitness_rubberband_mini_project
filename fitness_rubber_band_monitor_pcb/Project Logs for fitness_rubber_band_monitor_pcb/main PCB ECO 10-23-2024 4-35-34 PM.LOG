@@ -1,0 +1,46 @@
+Removed Member From Class: ClassName=main Member=J7
+Change Component Footprint: Designator=J3 Old Footprint=SAMTEC_MTSW-106-07-S-S-238 New Footprint=SAMTEC_MTSW-101-08-G-D-250
+Change Component Comment : Designator=J3 Old Comment=240-004 New Comment=SG1
+Change Component Designator: OldDesignator=J4 NewDesignator=J5
+Change Component Designator: OldDesignator=J7 NewDesignator=J6
+Change component parameters: Designator = "J3" ("J3"); Footprint = "SAMTEC_MTSW-106-07-S-S-238"; UniqueID = "\SPZXPXHJ" ("\SPZXPXHJ")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "MTSW-101-08-G-D-250"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J4(SAMTEC_MTSW-101-08-G-D-250)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MTSW-101-08-G-D-250"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found TRIM_PV37W501C01B00
+Add Component: Footprint Not Found TRIM_PV37W501C01B00
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J1-2
+Add Pin To Net: Unknown Pin: Pin J1-3
+Add Pin To Net: Unknown Pin: Pin J1-4
+Add Pin To Net: Unknown Pin: Pin J1-5
+Add Pin To Net: Unknown Pin: Pin J1-6
+Add Pin To Net: Unknown Pin: Pin J2-1
+Add Pin To Net: Unknown Pin: Pin J2-2
+Add Pin To Net: Unknown Pin: Pin J2-3
+Add Pin To Net: Unknown Pin: Pin J2-4
+Add Pin To Net: Unknown Pin: Pin J2-5
+Add Pin To Net: Unknown Pin: Pin J2-6
+Added Pin To Net: NetName=E+ Pin=J3-01
+Added Pin To Net: NetName=A+ Pin=J3-02
+Added Pin To Net: NetName=A+ Pin=J4-01
+Added Pin To Net: NetName=E- Pin=J4-02
+Add Pin To Net: Unknown Pin: Pin J6-GN1
+Add Pin To Net: Unknown Pin: Pin R10-2
+Add Pin To Net: Unknown Pin: Pin R10-3
+Add Pin To Net: Unknown Pin: Pin R11-1
+Add Pin To Net: Unknown Pin: Pin R11-2
+Added Member To Class: ClassName=main Member=Component J5 hx711 in
+Added Member To Class: ClassName=main Member=Component J6 SS-52400-002
+Add Class Member: Failed to add class member : Component R10 PV37W501C01B00
+Add Class Member: Failed to add class member : Component R11 PV37W501C01B00

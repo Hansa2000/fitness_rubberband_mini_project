@@ -1,0 +1,41 @@
+Added Component: Designator=R10(TRIM_PV37W501C01B00)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/PV37W501C01B00/Bourns/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PV37W501C01B00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "PV37W Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/PV37W501C01B00/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/PV37W501C01B00/Bourns/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R11(TRIM_PV37W501C01B00)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/PV37W501C01B00/Bourns/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PV37W501C01B00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "PV37W Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/PV37W501C01B00/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/PV37W501C01B00/Bourns/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J1-2
+Add Pin To Net: Unknown Pin: Pin J1-3
+Add Pin To Net: Unknown Pin: Pin J1-4
+Add Pin To Net: Unknown Pin: Pin J1-5
+Add Pin To Net: Unknown Pin: Pin J1-6
+Add Pin To Net: Unknown Pin: Pin J2-1
+Add Pin To Net: Unknown Pin: Pin J2-2
+Add Pin To Net: Unknown Pin: Pin J2-3
+Add Pin To Net: Unknown Pin: Pin J2-4
+Add Pin To Net: Unknown Pin: Pin J2-5
+Add Pin To Net: Unknown Pin: Pin J2-6
+Add Pin To Net: Unknown Pin: Pin J6-GN1
+Added Pin To Net: NetName=A- Pin=R10-2
+Added Pin To Net: NetName=E- Pin=R10-3
+Added Pin To Net: NetName=E+ Pin=R11-1
+Added Pin To Net: NetName=A- Pin=R11-2
+Added Member To Class: ClassName=main Member=Component J4 SG2
+Added Member To Class: ClassName=main Member=Component J6 SS-52400-002
+Added Member To Class: ClassName=main Member=Component R10 PV37W501C01B00
+Added Member To Class: ClassName=main Member=Component R11 PV37W501C01B00

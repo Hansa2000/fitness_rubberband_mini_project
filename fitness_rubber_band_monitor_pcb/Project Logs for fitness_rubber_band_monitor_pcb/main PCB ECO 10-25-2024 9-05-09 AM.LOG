@@ -1,0 +1,64 @@
+Change Component Footprint: Designator=C4 Old Footprint=WCAP-CSGP_0402_L1W0.5H0.5 New Footprint=WCAP-CSGP_0805_L2W1.25H0.6_Reflow
+Change Component Footprint: Designator=C5 Old Footprint=WCAP-CSGP_0402_L1W0.5H0.5 New Footprint=WCAP-CSGP_0805_L2W1.25H0.6_Reflow
+Change component parameters: Designator = "C4" ("C4"); Footprint = "WCAP-CSGP_0402_L1W0.5H0.5"; UniqueID = "\BZGRARPQ" ("\BZGRARPQ")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "4.7pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance Tolerance"; Value = "+/-0.5pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Size Code"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Multilayer Ceramic Chip Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ceramic Type"; Value = "NP0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/885012007049?ad"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/885012007049?ad"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation Resistance"; Value = "10GOhm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "885012007049"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Match Code"; Value = "WCAP-CSGP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Max"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Min"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Q Factor"; Value = "494"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage (DC)"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technical Reference"; Value = "NP008054R7D050DFCT10000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "1.25mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5" ("C5"); Footprint = "WCAP-CSGP_0402_L1W0.5H0.5"; UniqueID = "\FHCWXVJQ" ("\FHCWXVJQ")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "4.7pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance Tolerance"; Value = "+/-0.5pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Size Code"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Multilayer Ceramic Chip Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ceramic Type"; Value = "NP0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/885012007049?ad"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/885012007049?ad"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation Resistance"; Value = "10GOhm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "885012007049"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Match Code"; Value = "WCAP-CSGP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Max"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Min"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Q Factor"; Value = "494"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage (DC)"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technical Reference"; Value = "NP008054R7D050DFCT10000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J1-2
+Add Pin To Net: Unknown Pin: Pin J1-3
+Add Pin To Net: Unknown Pin: Pin J1-4
+Add Pin To Net: Unknown Pin: Pin J1-5
+Add Pin To Net: Unknown Pin: Pin J1-6
+Add Pin To Net: Unknown Pin: Pin J2-1
+Add Pin To Net: Unknown Pin: Pin J2-2
+Add Pin To Net: Unknown Pin: Pin J2-3
+Add Pin To Net: Unknown Pin: Pin J2-4
+Add Pin To Net: Unknown Pin: Pin J2-5
+Add Pin To Net: Unknown Pin: Pin J2-6
+Add Pin To Net: Unknown Pin: Pin J6-GN1
+Added Member To Class: ClassName=main Member=Component J6 SS-52400-002

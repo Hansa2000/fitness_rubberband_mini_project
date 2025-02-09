@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=A+ Pin=J4-01
+Removed Pin From Net: NetName=A- Pin=R12-2
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J1-2
+Add Pin To Net: Unknown Pin: Pin J1-3
+Add Pin To Net: Unknown Pin: Pin J1-4
+Add Pin To Net: Unknown Pin: Pin J1-5
+Add Pin To Net: Unknown Pin: Pin J1-6
+Add Pin To Net: Unknown Pin: Pin J2-3
+Add Pin To Net: Unknown Pin: Pin J2-4
+Add Pin To Net: Unknown Pin: Pin J2-5
+Add Pin To Net: Unknown Pin: Pin J2-6
+Added Pin To Net: NetName=A- Pin=J4-01
+Added Pin To Net: NetName=A+ Pin=R12-2
+Added Member To Class: ClassName=main Member=Component J6 battery
+Added Member To Class: ClassName=main Member=Component R10 10K
+Added Member To Class: ClassName=main Member=Component R11 10K

@@ -1,0 +1,19 @@
+Change Component Comment : Designator=C4 Old Comment=4.7pF New Comment=4.7uF
+Change Component Comment : Designator=C5 Old Comment=4.7pF New Comment=4.7uF
+Change Component Designator: OldDesignator=R8 NewDesignator=R 8
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J1-2
+Add Pin To Net: Unknown Pin: Pin J1-3
+Add Pin To Net: Unknown Pin: Pin J1-4
+Add Pin To Net: Unknown Pin: Pin J1-5
+Add Pin To Net: Unknown Pin: Pin J1-6
+Add Pin To Net: Unknown Pin: Pin J2-1
+Add Pin To Net: Unknown Pin: Pin J2-2
+Add Pin To Net: Unknown Pin: Pin J2-3
+Add Pin To Net: Unknown Pin: Pin J2-4
+Add Pin To Net: Unknown Pin: Pin J2-5
+Add Pin To Net: Unknown Pin: Pin J2-6
+Added Member To Class: ClassName=main Member=Component J6 battery
+Added Member To Class: ClassName=main Member=Component J6 10155435-00021LF
+Added Member To Class: ClassName=main Member=Component R10 PV37W501C01B00
+Added Member To Class: ClassName=main Member=Component R11 PV37W501C01B00
