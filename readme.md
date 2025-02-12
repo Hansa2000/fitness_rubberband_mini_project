@@ -60,10 +60,7 @@ The system consists of the following key components:
 
 ## Demo
 
-<video width="640" height="360" controls>
-  <source src="results_images_demo/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/Hansa2000/fitness_rubberband_mini_project/blob/main/results_images_demo/demo.mp4
 
 ## Future Improvements
 - **Connectivity** for mobile app integration.
