@@ -58,6 +58,13 @@ The system consists of the following key components:
 - **Comparison of simulation and prototype results** shows consistency in data.
 - **Usable for strength training and rehabilitation monitoring.**
 
+## Demo
+
+<video width="640" height="360" controls>
+  <source src="results_images_demo/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## Future Improvements
 - **Connectivity** for mobile app integration.
 - **Machine learning-based workout recommendations.**
