@@ -21,7 +21,22 @@ The **Fitness Rubber Band Monitoring System** is an wearable device designed to 
 
 ## Sensitivity Calculations
 
-## Sensor placement simulations
+![Strain Guage](results_images_demo/strain_guage.png).
+
+- **Resistance**: 350 +/- 0.1 Ω
+- **Gauge factor**: 2.0-2.20
+- **Size**: 7.0mm * 4.5mm
+- **Accuracy rating**: +/- 3%
+- **Strain limit**: 2.0%
+- **Applicable temperature**: normal temperature ( -30°C to 60°C)
+- **Maximum resistance change**: 2 x 2% = 4%
+
+
+## Loadcell
+
+To get the improved sensitivity we have used 4 strain guages and placement of strain gauges and strain levels we would obtain within applied force levels were determined by conducting a solidworks analysis. You can find analysis report inside loadcell directory.
+
+![Static Analysis](results_images_demo/normal_strain_results.png).
 
 
 ## Circuit Design
