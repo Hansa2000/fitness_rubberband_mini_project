@@ -60,7 +60,7 @@ The system consists of the following key components:
 
 ## Demo
 
-https://github.com/Hansa2000/fitness_rubberband_mini_project/blob/main/results_images_demo/demo.mp4
+![Demo](results_images_demo/demo.webp). 
 
 ## Future Improvements
 - **Connectivity** for mobile app integration.
