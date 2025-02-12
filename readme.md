@@ -1,4 +1,4 @@
-# Fitness Rubber Band Monitoring System
+# Fitness Rubber Band Monitor
 
 ## Overview
 The **Fitness Rubber Band Monitoring System** is an wearable device designed to track and analyze resistance band exercises. Using **strain gauge sensors** integrated into the rubber band, the system detects resistance variations during stretching, providing **real-time feedback on workout intensity**. The data is processed using a **Wheatstone bridge circuit and an Arduino-based microcontroller**, ensuring accurate monitoring and performance analysis.
