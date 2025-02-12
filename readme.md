@@ -58,6 +58,10 @@ The system consists of the following key components:
 - **Comparison of simulation and prototype results** shows consistency in data.
 - **Usable for strength training and rehabilitation monitoring.**
 
+## Demo
+
+https://github.com/Hansa2000/fitness_rubberband_mini_project/blob/main/results_images_demo/demo.mp4
+
 ## Future Improvements
 - **Connectivity** for mobile app integration.
 - **Machine learning-based workout recommendations.**
